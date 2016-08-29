@@ -35,7 +35,7 @@ routes.
 
 You can follow one of the sections below to deploy this app to either
 [Google AppEngine](https://cloud.google.com/appengine) or [Firebase
-Static Hosting](https://www.firebase.com/docs/hosting/), which are both free and
+Static Hosting](https://firebase.google.com/docs/hosting/), which are both free and
 secure approaches for deploying a Polymer app.  The approach
 is similar for other hosting providers.
 
@@ -102,7 +102,7 @@ Replace `{project name}` with the name you chose in the previous step.
 ### Deploy with Firebase
 
 The instructions below are based on the [Firebase hosting quick start
-guide](https://www.firebase.com/docs/hosting/quickstart.html).
+guide](https://firebase.google.com/docs/hosting/quickstart).
 
 1.  [Sign up for a Firebase account](https://www.firebase.com/signup/).
 
